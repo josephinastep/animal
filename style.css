@@ -1,0 +1,109 @@
+.footer-column{
+  display:flex;
+}
+.footer-columns{
+  flex:50%;
+  margin:20px;
+}
+header, footer {
+  background-color: #38b6ff;
+  padding: 10px;
+}
+main{
+  padding:50px;
+  background-color:silver;
+}
+.post{
+  background-color:white;
+  padding:30px;
+  border-radius:10px;
+  margin-bottom:20px;
+  display:flex;
+  font-size: 5mm;
+  font-style: italic;
+}
+.post img{
+  margin:20px:
+  }
+.post-dogs{
+  background-color:#b0e681;
+  padding:40px;
+  border-radius:10px;
+  margin-bottom:20px;
+  display:flex;
+  font-size:5mm;
+  font-style:normal;
+  text-align:justify:
+}
+.post-birds{
+  background-color:#55e6d0;
+  padding:40px;
+  border-radius:10px;
+  margin-bottom:20px;
+  display:flex;
+  font-size:5mm;
+  font-style:normal;
+  text-align:justify:
+}
+}
+ul,li{
+  margin:0;
+  padding:0:
+}
+ul{
+  list-style:none;
+  width:100%;
+}
+li{
+  float:left;
+  width:auto;
+  
+}
+a{
+  background: #30A6E6;
+color: #FFFFFF;
+display: block;
+font: bold 13px sans-serif;
+padding: 10px 25px;
+text-align: center;
+text-decoration: none;
+  margin-top:5px;
+  margin-left:5px;
+}
+li:hover a {
+background: #000000;
+}
+.header{
+  display:flex;
+  font-style:italic;
+}
+iframe{
+}
+.video{
+  background-color:#55e6d0;
+  padding:40px;
+  border-radius:10px;
+  margin-bottom:20px;
+  margin-top:20px;
+  display:flex;
+  font-size:5mm;
+  font-style:normal;
+  text-align:justify:
+}
+#V1{
+  float:left;
+  width:40%;
+  display:flex;
+}
+#V2{
+  float:left;
+  width:25%;
+  margin-left:10px;
+  display:flex;
+}
+#V3{
+  fload:left;
+  display:flex;
+  width:25%;
+  margin-left:90px;
+}
